@@ -1,2 +1,3 @@
-# udacity-your-first-app
-:mortar_board: Android Basics Nanodegree project.
+# Udacity Your First App
+
+Android Basics Reviewer Training.
