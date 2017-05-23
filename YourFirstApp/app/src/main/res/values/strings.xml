@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">The First App</string>
+    <string name="label_company">Company:</string>
+    <string name="content_company">Meteorite BI</string>
+    <string name="label_description">Description:</string>
+    <string name="content_description">At Meteorite we deliver value from data. We work with our customers to identify, capture, transform, clean and analyse data. We use insight from data to solve problems, improve performance and identify new opportunities. We use innovative technologies including big data, cloud, open source and emerging commercial technologies to deliver data solutions quickly and cost effectively.</string>
+    <string name="label_email">Email:</string>
+    <string name="content_email">info@meteorite.bi</string>
+    <string name="label_website">Website:</string>
+    <string name="content_website">http://meteorite.bi</string>
+    <string name="label_address">Address:</string>
+    <string name="content_address">Surrey Technology Centre, Surrey Research Park, Guildford, GU2 7YG, UK</string>
+    <string name="label_phone">Phone:</string>
+    <string name="content_phone">+44 20 8133 3730/+1.844.814.1689</string>
+    <string name="label_business_hours">Business Hours:</string>
+    <string name="content_business_hours">Monday - Friday 9am to 5pm</string>
+</resources>
